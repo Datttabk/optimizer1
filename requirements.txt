@@ -4,3 +4,4 @@ numpy
 yfinance
 PyPortfolioOpt
 gunicorn==23.0.0
+Flask==3.0.0
